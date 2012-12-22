@@ -1,7 +1,7 @@
 RewriteEngine on
-RewriteBase /cabal-mgmt/trunk/
+RewriteBase /cabal/trunk/
 
 RewriteCond $1 !^(index\.php|images|robots\.txt|css|js)
-RewriteRule ^(.*)$ /cabal-mgmt/trunk/index.php/$1 [L]
+RewriteRule ^(.*)$ /cabal/trunk/index.php/$1 [L]
 
 php_flag short_open_tag On
