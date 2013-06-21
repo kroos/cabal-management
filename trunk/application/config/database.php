@@ -48,7 +48,7 @@
 $active_group = 'ACCOUNT';
 $active_record = TRUE;
 
-$db['ACCOUNT']['hostname'] = '202.185.6.220';
+$db['ACCOUNT']['hostname'] = '192.168.1.8';
 $db['ACCOUNT']['username'] = 'sa';
 $db['ACCOUNT']['password'] = 'oi62it2a2o';
 $db['ACCOUNT']['database'] = 'ACCOUNT';
@@ -64,7 +64,7 @@ $db['ACCOUNT']['swap_pre'] = '';
 $db['ACCOUNT']['autoinit'] = TRUE;
 $db['ACCOUNT']['stricton'] = FALSE;
 
-$db['GAMEDB']['hostname'] = '202.185.6.220';
+$db['GAMEDB']['hostname'] = '192.168.1.8';
 $db['GAMEDB']['username'] = 'sa';
 $db['GAMEDB']['password'] = 'oi62it2a2o';
 $db['GAMEDB']['database'] = 'GAMEDB';
@@ -80,7 +80,7 @@ $db['GAMEDB']['swap_pre'] = '';
 $db['GAMEDB']['autoinit'] = TRUE;
 $db['GAMEDB']['stricton'] = FALSE;
 
-$db['CASHSHOP']['hostname'] = '202.185.6.220';
+$db['CASHSHOP']['hostname'] = '192.168.1.8';
 $db['CASHSHOP']['username'] = 'sa';
 $db['CASHSHOP']['password'] = 'oi62it2a2o';
 $db['CASHSHOP']['database'] = 'CASHSHOP';
@@ -96,7 +96,7 @@ $db['CASHSHOP']['swap_pre'] = '';
 $db['CASHSHOP']['autoinit'] = TRUE;
 $db['CASHSHOP']['stricton'] = FALSE;
 
-$db['CABALCASH']['hostname'] = '202.185.6.220';
+$db['CABALCASH']['hostname'] = '192.168.1.8';
 $db['CABALCASH']['username'] = 'sa';
 $db['CABALCASH']['password'] = 'oi62it2a2o';
 $db['CABALCASH']['database'] = 'CABALCASH';
