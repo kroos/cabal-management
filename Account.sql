@@ -1,6 +1,5 @@
 USE [Account]
 
-/****** Object:  Table [dbo].[CabalWeb_Comment]    Script Date: 05/31/2012 23:54:09 ******/
 GO
 BEGIN TRANSACTION
 SET QUOTED_IDENTIFIER ON
